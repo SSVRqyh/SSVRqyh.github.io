@@ -7,7 +7,7 @@
 
   大气长法测定——通过地面观测测定大气上界太阳辐射 [查看](https://SSVRqyh.github.io/CX_QXKJ_Radiation)
 
-  ~~典型强对流的雷达探测实验 [查看](https://SSVRqyh.github.io/CUIT_VisualRadarCourse)~~
+  典型强对流的雷达探测实验 [查看](https://SSVRqyh.github.io/CUIT_VisualRadarCourse) 文件过大，暂不可用
 
   PM2.5称重法采样模拟实验 [查看](https://SSVRqyh.github.io/PM25WeightingV1.36.0)
 
