@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "CUIT_VisualRadarCourse.data.unityweb",
+"asmCodeUrl": "CUIT_VisualRadarCourse.asm.code.unityweb",
+"asmMemoryUrl": "CUIT_VisualRadarCourse.asm.memory.unityweb",
+"asmFrameworkUrl": "CUIT_VisualRadarCourse.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
